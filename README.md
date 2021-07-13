@@ -1,2 +1,2 @@
 # lewdsmut
-...for the Lewd Smut website.
+A website for Lewd Smut .com
