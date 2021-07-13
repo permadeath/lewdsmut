@@ -1,6 +1,9 @@
 body {
-    background-color: #000000;
+    background-color: #FFFFFF;
+    background-image: url("./images/tyranny_tile_3.gif");
+    background-repeat: repeat;
   }
+
 
 h1 {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
