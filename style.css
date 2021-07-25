@@ -11,6 +11,11 @@ body {
     text-align: center
 }
 
+h2 {
+    color: #ffffff;
+    text-align: center
+}
+
 .center {
     display: block;
     margin-left: auto;
