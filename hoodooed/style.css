@@ -19,7 +19,11 @@ text-transform: none;
     margin-right: auto;
   }
 
-.paragraph-wrapper {
-    display: flex;
-    justify-content: center;
+.links-wrapper {
+    margin:auto;
+    text-align:center;
+}
+
+.inline-block {
+    display: inline-block;
 }
